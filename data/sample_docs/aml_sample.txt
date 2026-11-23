@@ -1,0 +1,16 @@
+SAMPLE DOCUMENT — fictional text written for this demo. Not real regulatory text.
+
+Anti-Money Laundering — Customer Due Diligence
+
+A reporting entity must establish the identity of every client before opening an
+account. Identity is established by referring to an original, valid government-issued
+photo document and one secondary document showing the client's current address.
+
+Where the client is a corporation, the entity must obtain the names of all directors
+and of every person who owns or controls 25 percent or more of the corporation, and
+must confirm the existence of the corporation from a public registry record.
+
+Ongoing monitoring applies for the life of the relationship. Transactions that are
+inconsistent with the client's known profile must be reviewed, and the review and its
+outcome must be recorded. Records of identity verification must be kept for at least
+five years after the account is closed.

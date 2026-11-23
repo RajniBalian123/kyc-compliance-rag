@@ -1,0 +1,17 @@
+SAMPLE DOCUMENT — fictional text written for this demo. Not real regulatory text.
+
+Politically Exposed Persons — Enhanced Due Diligence
+
+A politically exposed person is an individual who holds, or has held within the last
+five years, a prominent public office in Canada or abroad, including heads of state,
+senior politicians, senior government officials, senior military officers, and senior
+executives of state-owned enterprises. Family members and close associates of such
+persons are treated the same way.
+
+Enhanced due diligence is mandatory for every politically exposed person, regardless
+of the assessed risk level. The measures include establishing the source of the
+person's wealth and the source of the funds to be used in the account, and obtaining
+senior management approval before the account is opened.
+
+Where enhanced due diligence cannot be completed, the account must not be opened and
+the matter must be escalated to the compliance officer.

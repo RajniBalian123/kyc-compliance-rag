@@ -1,0 +1,17 @@
+SAMPLE DOCUMENT — fictional text written for this demo. Not real regulatory text.
+
+Know Your Customer — Standard and Simplified Measures
+
+Standard customer due diligence applies to every client. It covers identity
+verification, an understanding of the purpose of the relationship, and an assessment
+of the client's risk profile based on geography, occupation, and expected activity.
+
+Simplified measures may be applied only where the risk is demonstrably low: a
+long-standing domestic client with a stable, low-value account and no cross-border
+activity. Simplified measures never remove the identity verification requirement;
+they reduce only the frequency of review.
+
+Where documents are inconsistent — for example, the name on a passport differs in
+spelling from the name on the application form — the inconsistency must be resolved
+and recorded before the application proceeds. Unresolved inconsistencies are a
+reason to escalate, not to approve.
